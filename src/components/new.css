@@ -1,0 +1,83 @@
+.App {
+    text-align: center;
+    background-color:  #c19975;
+  
+  
+  }
+  
+  .question-card {
+    /* Center the div  */
+    margin-top: 20px;
+    margin-left: 150px;
+  
+    /* Dimensions  */
+    width: 80%; /* Can be in percentage also. */
+    height: auto;
+  
+    /* Visual  */
+    background-color:#FCEDDA;
+    padding: 16px;
+    border-radius: 16px;
+    color: #000000;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px,
+      rgba(59, 41, 41, 0.237) 0px 18px 36px -18px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    margin-top: 8px;
+    background-color: #909090;
+    padding: 16px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  
+  .question-text {
+    color: #000000;
+    font-size: 24px;
+  }
+  
+  /* Final Results  */
+  
+  .final-results {
+    /* Center the div  */
+    margin: 0 auto;
+  
+    /* Dimensions  */
+    width: 50%; /* Can be in percentage also. */
+    height: auto;
+    margin-top: 64px;
+  
+    /* Visual  */
+    background-color:#FCEDDA;
+    padding: 16px;
+    border-radius: 16px;
+    color: rgb(0, 0, 0);
+    box-shadow: rgba(255, 255, 255, 0.927) 0px 30px 60px -12px,
+      rgba(255, 255, 255, 0.3) 0px 18px 36px -18px;
+  }
+  
+  button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+  
+    border-radius: 24px;
+  }
+  .img1
+  {
+    width: 50%;
+    height: 40%;
+    margin-top: 1px;
+    margin-left: 400px;
+  }
